@@ -1,0 +1,218 @@
+body {
+    font-family: graphik !Important;
+    font-size: 8px;
+    line-height: 1.63 !important;
+    font-weight: 500 !Important;
+
+}
+
+.container.space-2 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+
+
+.context-dark {
+    color: rgba(255, 255, 255, 0.8);
+    background-color: #262a2c;
+}
+
+.input-group,
+.input-group .form-control {
+    border-radius: 24.5px;
+    background-color: #212426;
+    border-color: #212426;
+}
+
+.shopping-tag li a {
+    border-radius: 24.5px !important;
+    background-color: #212426;
+    border-color: #212426 !important;
+    padding: 2px 12px;
+    color: #727f88;
+}
+
+.store-img {
+    width: 100%;
+    height: 100%;
+}
+
+.black-text-color {
+    color: #262a2c;
+}
+
+.steel-grey {
+    color: #727f88;
+
+
+}
+
+.duck-egg-blue {
+    background: #bbecf8 !important;
+}
+
+.warning-text {
+    color: #d6a973;
+}
+
+
+/*--------------------------------------------------------------------------Button------------------------------------------------------- */
+
+
+
+
+button.boot-button {
+    box-shadow: 0 10px 20px 0 rgba(235, 161, 72, 0.2);
+    line-height: 0;
+    padding: 24px 32px;
+    background: #d6a973;
+    border-color:
+        #d6a973;
+}
+
+button.boot-button:hover {
+    background: #d6a973;
+    border-color: #d6a973;
+    color: #fff !important;
+}
+
+button.boot-button:focus {
+    box-shadow: none;
+}
+
+
+
+/*--------------------------------------------------------------------------------
+
+
+Section Height 
+
+---------------------------------------------------------------------------------*/
+
+
+.section-xl {
+    padding-top: 9rem;
+    background-size: cover
+}
+
+
+/*--------------------------------------------------------------------------------
+
+
+Section Height 
+
+---------------------------------------------------------------------------------*/
+
+
+.lt-spacing {
+    letter-spacing: -3.84px
+}
+
+.mb-96 {
+    margin-bottom: 96px;
+}
+
+.py-170px {
+    padding: 170px 0px;
+}
+
+.ln-height {
+    line-height: 64px !important;
+}
+
+.white-opacity {
+    background-color: #f5f5f5;
+}
+
+.text {
+    display: inline-block;
+}
+
+
+
+/*Landing-page 2*/
+
+.page-2-button {
+    font-size: 14px !important;
+    padding: 20px 30px !important;
+}
+
+.ln-2-btn {
+    font-size: 14px !important;
+    line-height: 2.43px !important;
+}
+
+
+/*ln-3*/
+
+.very-light-pink {
+    background-color: #fcddd8;
+}
+
+.blue-royal {
+    color: #0e1e87;
+}
+
+.ln-bg1 {
+    background-image: url(img/ln-3/hero.jpg);
+    background-position: center right;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+.ln-3-spacing {
+    font-size: 120px !important;
+    letter-spacing: -4.8px;
+}
+
+.bg-h-100 {
+        background-size: cover;
+    background-image: url(img/ln-3/plant.jpg);
+    background-repeat: no-repeat !important;
+    min-height: 370px;
+}
+
+.bg-bottom{
+    background-image: url(img/ln-3/room.png);
+    background-position: bottom right;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    min-height: 800px;
+    
+}
+
+.size-240
+{
+    font-size: 240px;
+    letter-spacing: -9.3px;
+    z-index: -1;
+}
+
+.bg-light-pink{
+
+background-color: #fcddd8;
+}
+
+.light-pink
+{
+    
+    color:#fcddd8;
+}
+.pale-grey-two
+{
+    background: #dde8ea;
+}
+.ln-team {
+    background-image: url(img/ln-3/team.jpg);
+    background-position: center right;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: 880px;
+}
+.bg-h1-100 {
+        background-size: cover;
+    background-image: url(img/ln-3/plant1.jpg);
+    background-repeat: no-repeat !important;
+    min-height: 470px;
+}
